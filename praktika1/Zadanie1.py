@@ -1,0 +1,20 @@
+#Zadanie 1
+a=42
+b=3.14159
+c='hello, Pthon!'
+d=True
+e=[1, 2, 3]
+f=[4, 5, 6]
+g={'name': 'Alice', 'age': 30}
+h={7, 8, 9}
+i = None
+
+print('Type a is -', type(a))
+print('Type b is -', type(b))
+print('Type c is -', type(c))
+print('Type d is -', type(d))
+print('Type e is -', type(e))
+print('Type f is -', type(f))
+print('Type g is -', type(g))
+print('Type h is -', type(h))
+print('Type i is -', type(i))
